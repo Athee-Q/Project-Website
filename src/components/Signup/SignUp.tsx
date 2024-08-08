@@ -1,13 +1,8 @@
 "use client"
-// import axios from 'axios';
-import Link from 'next/link'
-import { useRouter } from 'next/navigation';
 import { ChangeEvent, FormEvent, useState } from 'react';
-// import {baseUrl} from '../utils/baseUrl';
 import { FaFacebook, FaGoogle, FaInstagram } from "react-icons/fa";
 import Button from '../Button/Button';
 import Logo from '../Logo/Logo';
-// import { toast } from 'react-toastify';
 
 const SignUp = () => {
   const [formData, setFormData] = useState({
@@ -16,7 +11,7 @@ const SignUp = () => {
     password: "",
   });
 
-  const router = useRouter()
+  // const router = useRouter()
 
   const handleInput = (e: ChangeEvent<HTMLInputElement>) => {
     setFormData({
@@ -27,7 +22,7 @@ const SignUp = () => {
 
   const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    console.log(formData);
+    
     //  axios.post(`${baseUrl}/signup`, { formData })
     //     .then((res) => {
     //         toast.success(

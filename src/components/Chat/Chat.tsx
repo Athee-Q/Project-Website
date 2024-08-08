@@ -19,7 +19,7 @@ const Chat = () => {
 
     const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
         e.preventDefault();
-        console.log(formData);
+        
     };
     return (
         <form onSubmit={handleSubmit}>

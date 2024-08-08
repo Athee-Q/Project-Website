@@ -61,7 +61,7 @@ const CRM = () => {
                 <div className=""><iframe src="https://lottie.host/embed/493d9b44-dce6-42ce-be88-9ef14ead92ed/mmjgSHLols.json" width={500} height={500}></iframe></div>
                 <div className="">
                     <div className='text-[20px] md:text-[25px] lg:text-[30px] mb-[1rem] font-medium text-zinc-600 leading-10 md:leading-10'>
-                        CSIT CRM has helped us achieve 4x ROI in just two years, allowing us to excel as one of the largest full-service stores for interiors in the real estate industry. CSIT's 360-degree view has enabled us to offer great value and experiences to our customers.
+                        CSIT CRM has helped us achieve 4x ROI in just two years, allowing us to excel as one of the largest full-service stores for interiors in the real estate industry. CSIT&apos;s 360-degree view has enabled us to offer great value and experiences to our customers.
                     </div>
                 </div>
             </section >

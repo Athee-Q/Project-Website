@@ -24,7 +24,7 @@ const FAQ = () => {
                 throw new Error('Failed to fetch data');
             }
             const data = await response.json();
-            console.log(data);
+            
 
             setFaq(data);
         } catch (error) {

@@ -59,7 +59,7 @@ const Products: React.FC = () => {
         throw new Error('Failed to fetch data');
       }
       const data = await response.json();
-      console.log(data);
+      
 
       setNavData(data);
     } catch (error) {
@@ -75,7 +75,7 @@ const Products: React.FC = () => {
         <Image src={'/product/products.png'} alt='About us' width={400} height={400} className='drop-shadow-2xl' />
         <div className="grid">
           <div className=" text-[20px] md:text-[25px] lg:text-[30px]  mt-[1.4rem] font-bold text-green-900">Elevate Your Business with CSIT&apos;s Products</div>
-          <div className="mt-2 text-green-600 text-[15px]">Discover how CSIT (Cyber Storm Info Tech) can propel your business forward with our innovative suite of software solutions. Whether you're aiming to optimize operations with customizable CRM and ERP systems, engage customers through intuitive mobile applications, or implement specialized software tailored to your industry, CSIT delivers comprehensive tools designed to enhance efficiency, productivity, and profitability. Backed by years of industry expertise and a commitment to excellence, our solutions empower businesses of all sizes to thrive in todays&apos; competitive landscape. Explore CSIT&apos;s products today and discover the difference in performance and growth they can make for your business</div>
+          <div className="mt-2 text-green-600 text-[15px]">Discover how CSIT (Cyber Storm Info Tech) can propel your business forward with our innovative suite of software solutions. Whether you&apos;re aiming to optimize operations with customizable CRM and ERP systems, engage customers through intuitive mobile applications, or implement specialized software tailored to your industry, CSIT delivers comprehensive tools designed to enhance efficiency, productivity, and profitability. Backed by years of industry expertise and a commitment to excellence, our solutions empower businesses of all sizes to thrive in todays&apos; competitive landscape. Explore CSIT&apos;s products today and discover the difference in performance and growth they can make for your business</div>
         </div>
       </div>
       <div className="grid grid-col-1 lg:grid-cols-12 h-full w-full">

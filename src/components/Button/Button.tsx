@@ -1,5 +1,4 @@
 import clsx from "clsx";
-import { HtmlProps } from "next/dist/shared/lib/html-context.shared-runtime";
 import Link from "next/link";
 import React, { ReactNode, forwardRef } from "react";
 

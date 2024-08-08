@@ -1,11 +1,11 @@
 import React from 'react'
 import Button from '../Button/Button';
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 
 interface Props {
     bg: string;
     num: string;
-    image: string;
+    image: StaticImageData;
     title: string;
     description: string;
 }
