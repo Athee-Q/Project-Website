@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "../../node_modules/slick-carousel/slick/slick.css";
+@import "../../node_modules/slick-carousel/slick/slick-theme.css";
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 4rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+.icon_wrapper {
+  @apply w-[50px] h-[50px]  border-2 border-indigo-50 rounded-full grid place-items-center text-[20px] cursor-pointer hover:border-indigo-500;
+}
+.input_style {
+  @apply bg-amber-50 rounded-lg text-amber-900  outline-amber-600 px-4 py-2 h-20 scrollbar-hide;
+}
+.input_style::placeholder{
+  @apply text-amber-300 
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
