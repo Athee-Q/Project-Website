@@ -1,0 +1,1428 @@
+{
+  "navData": [
+    {
+      "title": "Products",
+      "link": "",
+      "dropDown": [
+        {
+          "link": "/products/#crm",
+          "title": "CRM",
+          "image": "/navi/crm.jpg",
+          "description": "Manage customer relationships efficiently."
+        },
+        {
+          "link": "/products/#restaurant",
+          "title": "Restaurant",
+          "image": "/navi/restaurant.jpg",
+          "description": "Explore dining options and menus."
+        },
+        {
+          "link": "/products/#supermarket",
+          "title": "Supermarket",
+          "image": "/navi/supermarket.jpg",
+          "description": "Shop groceries and daily essentials."
+        },
+        {
+          "link": "/products/#textile-and-redimade",
+          "title": "Textile-And-Redimade",
+          "image": "/navi/clothes.jpg",
+          "description": "Discover fashion and fabrics."
+        },
+        {
+          "link": "/products/#medical-shops",
+          "title": "Medical-Shops",
+          "image": "/navi/pharmacy.png",
+          "description": "Find healthcare products and services."
+        },
+        {
+          "link": "/products/#automobile",
+          "title": "Automobile",
+          "image": "/navi/hardware.jpg",
+          "description": "Explore automotive parts and hardware."
+        },
+        {
+          "link": "/products/#jwellery-shops",
+          "title": "Jwellery-Shops",
+          "image": "/navi/jwellery.jpg",
+          "description": "Browse exquisite jewelry collections."
+        },
+        {
+          "link": "/products/#hospital-management",
+          "title": "Hospital-Management",
+          "image": "/navi/hospital.webp",
+          "description": "Manage hospital operations and services."
+        },
+        {
+          "link": "/products/#education-management",
+          "title": "Education-Management",
+          "image": "/navi/education.jpg",
+          "description": "Explore educational programs and management."
+        },
+        {
+          "link": "/products/#appliances-showroom",
+          "title": "Appliances-Showroom",
+          "image": "/navi/appliance.jpg",
+          "description": "Shop for home appliances."
+        },
+        {
+          "link": "/products/#real-estate",
+          "title": "Real-Estate",
+          "image": "/navi/realestate.png",
+          "description": "Explore properties and real estate services."
+        },
+        {
+          "link": "/products/#forex-management",
+          "title": "Forex-Management",
+          "image": "/navi/forest.jpg",
+          "description": "Manage forestry and conservation efforts."
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "link": "",
+      "dropDown": [
+        {
+          "link": "/blog",
+          "title": "Blog",
+          "image": "/navi/blog.jpg",
+          "description": "Gofrugal ERP system is a comprehensive billing to balance sheet solution scalable to meet the needs of any business"
+        },
+        {
+          "link": "/faq",
+          "title": "FAQs",
+          "image": "/navi/faq.jpg",
+          "description": "Find answers to common questions."
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "link": "",
+      "dropDown": [
+        {
+          "link": "/about-us",
+          "title": "About Us",
+          "image": "/navi/aboutus.jpg",
+          "description": "We help businesses grow with minimal staff, least skills along with accurate and reliable solutions"
+        },
+        {
+          "link": "/careers",
+          "title": "Careers",
+          "image": "/navi/career.jpeg",
+          "description": "We are here to help deliver delight to Retailers, Restaurants & Distributors with simple & complete automation solutions."
+        },
+        {
+          "link": "/contact-us",
+          "title": "Contact Us",
+          "image": "/navi/contactus.jpg",
+          "description": "Reach out to us for any inquiries or support."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "id": 3,
+      "title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
+      "category": "Hospital Mangement",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "8 minutes",
+      "content": "Welcome back to Found, where we get the stories behind the Medical Shops. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
+      "tags": ["Biotech", "Hospital Mangement"]
+    },
+    {
+      "id": 4,
+      "title": "Rainforest raises $8.5M to help software companies embed financial services, payments",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/02/shutterstock_128451140.jpg?w=430&h=230&crop=1",
+      "category": "Automobile, Electricals & hardware",
+      "author": "Mary Ann Azevedo",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "In November 2019, Andreessen Horowitz General Partner Angela Strange famously declared that, “Every company will be a Automobile, Electricals & hardware company.” Specifically, Strange projected that — in the not-too-d...",
+      "tags": ["Automobile, Electricals & hardware", "Writing"]
+    },
+    {
+      "id": 5,
+      "title": "Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Pow-Lab2.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Christine Hall",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Pow.bio intends to bring down the costs associated with biomanufacturing by reimagining of fermentation facility operations.",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 6,
+      "title": "Recapitalization, $60M Series D support Super Market of e-commerce financier Clearco",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1314165902.jpg?w=430&h=230&crop=1",
+      "category": "Automobile, Electricals & hardware",
+      "author": "Christine Hall",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Today is news marks a turnaround for a company that is had its share of ups and downs over the past year.",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 7,
+      "title": "Rabbit is building an AI model that understands how software Textile & Redimades",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "What if you could interact with any piece of software using natural language? Imagine typing in a prompt and having AI translate the instructions into machine-comprehendable commands, executing tas...",
+      "tags": ["CRM", "Writing"]
+    },
+    {
+      "id": 8,
+      "title": "Okta plans to weave AI across its entire identity platform using multiple models",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1350618660.jpg?w=430&h=230&crop=1",
+      "category": "Real Estate",
+      "author": "Ron Miller",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "One thing is clear this year: generative AI is having a tremendous impact on the software industry, and a week doesn’t pass without software companies announcing their plans to incorporate the seem...",
+      "tags": ["Real Estate", "Writing"]
+    },
+    {
+      "id": 9,
+      "title": "Yubico can now ship pre-registered Real Estate keys to its Restaurant users",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/yubikey.jpg?w=430&h=230&crop=1",
+      "category": "Restaurant",
+      "author": "Frederic Lardinois",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Physical Real Estate keys remain one of the best ways to secure user accounts, but the fact that new users have to register them before they can use them often adds quite a bit of friction. Yubico, th...",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 10,
+      "title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "8 minutes",
+      "content": "Blackbird Labs, a hospitality tech company whose platform helps restaurants stay in touch with guests and incentivize them to dine out more frequently, today announced that it raised $24 million in...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 11,
+      "title": "TC Startup Battlefield master class with Flourish Ventures: Defining early-stage product-market fit",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/battlefield-biotics-ai.jpg?w=430&h=230&crop=1",
+      "category": "Super Market",
+      "author": "Neesha A. Tambe",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "tags": ["Super Market", "Writing"]
+    },
+    {
+      "id": 12,
+      "title": "Yahoo spins out Vespa, its search tech, into an independent company",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Yahoo, otherwise known as the company that pays my salary (full disclosure: Yahoo owns TC), today announced that it’s spinning off Vespa, the big data serving engine, into an independent vent...",
+      "tags": ["CRM", "Writing"]
+    },
+    {
+      "id": 13,
+      "title": "Okta acquires a16z-backed password manager Uno to develop a personal tier",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/Uno.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Ivan Mehta",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Okta, the U.S.-based identity mangement giant, announced today that it has acquired a password mangement app, Uno. The company said that Uno’s team will help speed up the public launch of the...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 14,
+      "title": "CoPilot, a training app that matches users with remote fitness coaches, raises $6.5M",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/copilot-screenshots.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Aisha Malik",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "CoPilot, a digital training app that matches users with one-on-one remote fitness coaches, has raised $6.5M in Series A-1 funding led by Jackson Square Ventures. The app, which has seen more than 1...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 15,
+      "title": "Opsera, a DevOps platform geared toward Restaurants, raises $12M",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Opsera, a DevOps platform geared toward Restaurant clients, today announced that it raised $12 million in a funding round — a tranche smaller than Opsera’s previous — led by Taiwa...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 16,
+      "title": "EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1459166551.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Mainstream social media platforms could face limits on their ability to take down independent journalism that violates their terms and conditions under a proposal agreed by European Union lawmakers...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 17,
+      "title": "Make these 5 changes to avoid becoming the next cyberReal Estate headline",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
+      "category": "Textile & Redimade",
+      "author": "Jim Broome",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Recent incidents, such as the breach at MGM Resorts, serve as stark reminders of the potential consequences of inadequate Real Estate measures.",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 18,
+      "title": "Make these 5 changes to avoid becoming the next cyberReal Estate headline",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Uber is expanding its peer-to-peer package delivery service, Uber Connect. Now, customers who don’t want to schlep a package to the post office can request an Uber courier to do it for them w...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 19,
+      "title": "Open Banking led to a Automobile, Electricals & hardware boom — As Brite raises $60M, account-to-account payment grows",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/hero-option-2-1.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Mike Butcher",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The move towards Open Banking payments, especially in the EU, effectively kicked-off the Automobile, Electricals & hardware boom. Open Baking standards meant that Automobile, Electricals & hardware Medical Shops could create Wallets and effectively become ...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 20,
+      "title": "Krafton India launches gaming incubator to expand local ecosystem",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/krafton-india-ceo-sean-hyunil-sohn.jpeg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Jagmeet Singh",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The move towards Open Banking payments, especially in the EU, effectively kicked-off the Automobile, Electricals & hardware boom. Open Baking standards meant that Automobile, Electricals & hardware Medical Shops could create Wallets and effectively become ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 21,
+      "title": "Electric Hydrogen is the green hydrogen industry’s first unicorn",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and minimal government support have made the green h...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 22,
+      "title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The San Francisco Police Department is investigating an October 2 incident that left a woman stuck underneath a Cruise robotaxi after being hit by a human-driven vehicle. Video captured by Cruise a...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 23,
+      "title": "Spotify to include a selection of 150K audiobooks with its Premium subscription",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Spotify today unveiled what’s next for the future of its audiobooks service. At an event hosted in its New York offices on Tuesday afternoon, the company announced a new business model where",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 24,
+      "title": "How an AI deepfake ad of MrBeast ended up on TikTok",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/mrbeast-squid-game-remake-1.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "AI deepfake today unveiled what’s next for the future of its audiobooks service. At an event hosted in its New York offices on Tuesday afternoon, the company announced a new business model where",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 25,
+      "title": "You can now add PayPal and Venmo credit or debit cards to your Apple Wallet",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/mrbeast-squid-game-remake-1.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "PayPal announced today that users can now add their PayPal and Venmo credit or debit cards to their Apple Wallet. With this new integration, you can now make payments in-store, online or on Forrest Management using Apple Pay. The company notes that users will continue earning their cashback and rewards.",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 26,
+      "title": "The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Xencelabs-Pen-Display-24-6.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Xencelabs announced today that users can now add their Xencelabs and Venmo credit or debit cards to their Apple Wallet. With this new integration, you can now make payments in-store, online or on Forrest Management using Apple Pay. The company notes that users will continue earning their cashback and rewards.",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 27,
+      "title": "US lawmakers ask TikTok about its ByteDance ties after recent exec transfers between the companies",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1177990253.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Xencelabs announced today that users can now add their Xencelabs and Venmo credit or debit cards to their Apple Wallet. With this new integration, you can now make payments in-store, online or on Forrest Management using Apple Pay. The company notes that users will continue earning their cashback and rewards.",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 28,
+      "title": "Sam Altman backs teens’ AI startup automating browser-native Textile & Redimadeflows",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/induced-ai.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Xencelabs announced today that users can now add their Xencelabs and Venmo credit or debit cards to their Apple Wallet. With this new integration, you can now make payments in-store, online or on Forrest Management using Apple Pay. The company notes that users will continue earning their cashback and rewards.",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 29,
+      "title": "Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-10.16.25-PM.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 30,
+      "title": "Promova’s new feature helps people with dyslexia learn a new language",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/2.png?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 31,
+      "title": "Don’t sweat the valuation headlines, ByteDance is doing great",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248389907.jpg?w=430&h=230&crop=1",
+      "category": "Textile & Redimade",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 32,
+      "title": "PlanetScale forks MySQL to add vector support",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1244811487.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 33,
+      "title": "Osmoses gets $11M seed to bring its molecule-scale membranes to the hydrogen market",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/osmoses-production-line.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Tim De Chant",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 34,
+      "title": "SBF’s trial has started, this is how he and FTX got here",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1454050629.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Tim De Chant",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 35,
+      "title": "Qobra raises $10.5 million for its real-time sales compensation tool",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Qobra-founders.jpeg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Tim De Chant",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 36,
+      "title": "FBI most-wanted Russian hacker reveals why he burned his passport",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/mikhail-matveev-ransomware-most-wanted.png?w=430&h=230&crop=1",
+      "category": "Jwellery Shop",
+      "author": "Tim De Chant",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 37,
+      "title": "Motel One says ransomware gang stole customer credit card data",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/MO-Hotel-Hamburg-am-Michel-Outdoor-3.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Carly Page",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 38,
+      "title": "LinkedIn goes big on new AI tools for learning, recruitment, marketing and sales, powered by OpenAI",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Carly Page",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 39,
+      "title": "Dry Studio’s Black Diamond 75 is a gaming keyboard that actually looks good",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/15.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Carly Page",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 40,
+      "title": "DoorDash tests a feature that rewards users for dining out, not ordering in",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Carly Page",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 41,
+      "title": "Adapting to a world with higher interest rates — a guide for Medical Shops",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-109439584.jpg?w=430&h=230&crop=1",
+      "category": "Textile & Redimade",
+      "author": "Mohit Agarwal",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 42,
+      "title": "Wattpad ditches ‘Paid Stories’ for a freemium model",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/wattpad-logo.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Mohit Agarwal",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 43,
+      "title": "Science lab automation and robotics startup Automata raises $40M",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/05_LINQ-BENCH_LAB_QUAD_BLUE-2-1536x864-copy-e1696332783997.png?w=430&h=230&crop=1",
+      "category": "Hospital Mangement",
+      "author": "Mohit Agarwal",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 44,
+      "title": "Meta planning ad-free subscription or tracking ads ‘choice’ in EU, per WSJ — in latest bid to keep snooping",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-surveillance-1.jpg?w=430&h=230&crop=1",
+      "category": "Real Estate",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 45,
+      "title": "Sparx wants to do for Restaurant what Truebill did for consumer recurring bills",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/SaaS-final.png?w=430&h=230&crop=1",
+      "category": "Automobile, Electricals & hardware",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 45,
+      "title": "Ten Key Labs wants to simplify managing equity for Medical Shops",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1359478309.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 46,
+      "title": "HCVC is back with a new $75 million deep tech fund",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/HCVC-team.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 47,
+      "title": "Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cloaked-Privacy-2.jpeg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 47,
+      "title": "Unitary AI picks up $15M for its multimodal approach to video content moderation",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-01.44.37.png?w=430&h=230&crop=1",
+      "category": "Hospital Mangement",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 47,
+      "title": "Tesla Autopilot arbitration win could set legal benchmark in auto industry",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1494766819.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 48,
+      "title": "Google Pixel Event 2023: Everything you need to know about Pixel 8, Pixel Watch 2, Pixel Buds Pro, Android 14",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-9.06.01-AM.png?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Christine Hall",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The Arc browser is “finally” launching its AI-powered features under the “Arc Max” moniker. The Browser Company is using a combination of OpenAI’s GPT-3.5 and Anthropi...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 49,
+      "title": "Pixel Buds Pro update will bring AirPods-like conversation detection and listening stats",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Google-Pixel-Buds-Pro-Bay-2.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Ivan Mehta",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 50,
+      "title": "Google Pixel 8 Pro first impressions",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Google-Pixel-8-Pro-Bay-04.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 51,
+      "title": "Google’s Pixel Watch 2 brings new sensors for improved Hospital Mangement tracking",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Pixel-Watch-2-Lifestyle-Outdoor-Porcelain-Active-Sport1.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 52,
+      "title": "The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Xencelabs-Pen-Display-24-6.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 53,
+      "title": "Humane’s ‘Ai Pin’ debuts on the Paris runway",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-30-at-8.14.25%E2%80%AFAM.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 54,
+      "title": "Fitbit brings Pixel Watch features to the Charge 6",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Fitbit-Charge-6-Lifestyle-Pickleball-Stretch-Porcelain.jpeg?w=430&h=230&crop=1",
+      "category": "Hospital Mangement",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 55,
+      "title": "Meta Quest 3 convinced me to love VR by downplaying the metaverse",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Darrell-Meta-Quest-3-e1695838907237.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 56,
+      "title": "Ray-Ban’s new Meta smart glasses will be able to translate text",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Meta-Ray-Ban-Stories-01.jpg?w=430&h=230&crop=1",
+      "category": "Appliances Showroom",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 57,
+      "title": "Ray-Ban Meta smart glasses livestream to Instagram and Facebook",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Meta_RayBan-Wojack-8674.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Brian Heater",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 58,
+      "title": "Xbox Cloud Gaming is coming to Meta Quest 3 in December",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-27-at-1.40.54%E2%80%AFPM.jpg?w=430&h=230&crop=1",
+      "category": "Education Management",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Google is updating Pixel Buds Pro this fall with features like conversation detection — which is similar to Apple’s conversation awareness features for AirPods — listening stats, and support ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 59,
+      "title": "Meta debuts generative AI features for advertisers",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "5 minutes",
+      "content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 60,
+      "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
+      "category": "Textile & Redimade",
+      "author": "Sophie Alcorn",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "4 minutes",
+      "content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
+      "tags": ["Textile & Redimade", "Blogging"]
+    },
+    {
+      "id": 61,
+      "title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
+      "category": "Hospital Mangement",
+      "author": "Darrell Etherington",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "8 minutes",
+      "content": "Welcome back to Found, where we get the stories behind the Medical Shops. This week, our old friend Darrell Etherington joins Becca Szkutak to talk with Professor Esther Rodriguez-Villegas from Acurable...",
+      "tags": ["Biotech", "Hospital Mangement"]
+    },
+    {
+      "id": 62,
+      "title": "Rainforest raises $8.5M to help software companies embed financial services, payments",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/02/shutterstock_128451140.jpg?w=430&h=230&crop=1",
+      "category": "Automobile, Electricals & hardware",
+      "author": "Mary Ann Azevedo",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "In November 2019, Andreessen Horowitz General Partner Angela Strange famously declared that, “Every company will be a Automobile, Electricals & hardware company.” Specifically, Strange projected that — in the not-too-d...",
+      "tags": ["Automobile, Electricals & hardware", "Writing"]
+    },
+    {
+      "id": 63,
+      "title": "Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Pow-Lab2.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Christine Hall",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Pow.bio intends to bring down the costs associated with biomanufacturing by reimagining of fermentation facility operations.",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 64,
+      "title": "Recapitalization, $60M Series D support Super Market of e-commerce financier Clearco",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1314165902.jpg?w=430&h=230&crop=1",
+      "category": "Automobile, Electricals & hardware",
+      "author": "Christine Hall",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Today is news marks a turnaround for a company that is had its share of ups and downs over the past year.",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 65,
+      "title": "Rabbit is building an AI model that understands how software Textile & Redimades",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "What if you could interact with any piece of software using natural language? Imagine typing in a prompt and having AI translate the instructions into machine-comprehendable commands, executing tas...",
+      "tags": ["CRM", "Writing"]
+    },
+    {
+      "id": 66,
+      "title": "Okta plans to weave AI across its entire identity platform using multiple models",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1350618660.jpg?w=430&h=230&crop=1",
+      "category": "Real Estate",
+      "author": "Ron Miller",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "One thing is clear this year: generative AI is having a tremendous impact on the software industry, and a week doesn’t pass without software companies announcing their plans to incorporate the seem...",
+      "tags": ["Real Estate", "Writing"]
+    },
+    {
+      "id": 67,
+      "title": "Yubico can now ship pre-registered Real Estate keys to its Restaurant users",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/yubikey.jpg?w=430&h=230&crop=1",
+      "category": "Restaurant",
+      "author": "Frederic Lardinois",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Physical Real Estate keys remain one of the best ways to secure user accounts, but the fact that new users have to register them before they can use them often adds quite a bit of friction. Yubico, th...",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 68,
+      "title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "8 minutes",
+      "content": "Blackbird Labs, a hospitality tech company whose platform helps restaurants stay in touch with guests and incentivize them to dine out more frequently, today announced that it raised $24 million in...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 69,
+      "title": "TC Startup Battlefield master class with Flourish Ventures: Defining early-stage product-market fit",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/battlefield-biotics-ai.jpg?w=430&h=230&crop=1",
+      "category": "Super Market",
+      "author": "Neesha A. Tambe",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "tags": ["Super Market", "Writing"]
+    },
+    {
+      "id": 70,
+      "title": "Yahoo spins out Vespa, its search tech, into an independent company",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Yahoo, otherwise known as the company that pays my salary (full disclosure: Yahoo owns TC), today announced that it’s spinning off Vespa, the big data serving engine, into an independent vent...",
+      "tags": ["CRM", "Writing"]
+    },
+    {
+      "id": 71,
+      "title": "Okta acquires a16z-backed password manager Uno to develop a personal tier",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/Uno.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Ivan Mehta",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "5 minutes",
+      "content": "Okta, the U.S.-based identity mangement giant, announced today that it has acquired a password mangement app, Uno. The company said that Uno’s team will help speed up the public launch of the...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 72,
+      "title": "CoPilot, a training app that matches users with remote fitness coaches, raises $6.5M",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/copilot-screenshots.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Aisha Malik",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "CoPilot, a digital training app that matches users with one-on-one remote fitness coaches, has raised $6.5M in Series A-1 funding led by Jackson Square Ventures. The app, which has seen more than 1...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 73,
+      "title": "Opsera, a DevOps platform geared toward Restaurants, raises $12M",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Kyle Wiggers",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Opsera, a DevOps platform geared toward Restaurant clients, today announced that it raised $12 million in a funding round — a tranche smaller than Opsera’s previous — led by Taiwa...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 74,
+      "title": "EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1459166551.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Natasha Lomas",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Mainstream social media platforms could face limits on their ability to take down independent journalism that violates their terms and conditions under a proposal agreed by European Union lawmakers...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 75,
+      "title": "Make these 5 changes to avoid becoming the next cyberReal Estate headline",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
+      "category": "Textile & Redimade",
+      "author": "Jim Broome",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Recent incidents, such as the breach at MGM Resorts, serve as stark reminders of the potential consequences of inadequate Real Estate measures.",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 76,
+      "title": "Make these 5 changes to avoid becoming the next cyberReal Estate headline",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
+      "category": "Forrest Management",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Uber is expanding its peer-to-peer package delivery service, Uber Connect. Now, customers who don’t want to schlep a package to the post office can request an Uber courier to do it for them w...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 77,
+      "title": "Open Banking led to a Automobile, Electricals & hardware boom — As Brite raises $60M, account-to-account payment grows",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/hero-option-2-1.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Mike Butcher",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The move towards Open Banking payments, especially in the EU, effectively kicked-off the Automobile, Electricals & hardware boom. Open Baking standards meant that Automobile, Electricals & hardware Medical Shops could create Wallets and effectively become ...",
+      "tags": ["Forrest Management", "Writing"]
+    },
+    {
+      "id": 78,
+      "title": "Krafton India launches gaming incubator to expand local ecosystem",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/krafton-india-ceo-sean-hyunil-sohn.jpeg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Jagmeet Singh",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The move towards Open Banking payments, especially in the EU, effectively kicked-off the Automobile, Electricals & hardware boom. Open Baking standards meant that Automobile, Electricals & hardware Medical Shops could create Wallets and effectively become ...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 79,
+      "title": "Electric Hydrogen is the green hydrogen industry’s first unicorn",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?w=430&h=230&crop=1",
+      "category": "Real Estate",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "Investors have historically been skeptical of green hydrogen. High production costs, expensive infrastructure builds, competition with batteries and minimal government support have made the green h...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 80,
+      "title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The San Francisco Police Department is investigating an October 2 incident that left a woman stuck underneath a Cruise robotaxi after being hit by a human-driven vehicle. Video captured by Cruise a...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 1,
+      "title": "Meta debuts generative AI features for advertisers",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
+      "category": "CRM",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "5 minutes",
+      "content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 2,
+      "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
+      "category": "Textile & Redimade",
+      "author": "Sophie Alcorn",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "4 minutes",
+      "content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
+      "tags": ["Textile & Redimade", "Blogging"]
+    },
+    {
+      "id": 81,
+      "title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
+      "category": "Real Estate",
+      "author": "Rebecca Bellan",
+      "authorPic": "author1.jpg",
+      "published_date": "2023-10-01",
+      "reading_time": "6 minutes",
+      "content": "The San Francisco Police Department is investigating an October 2 incident that left a woman stuck underneath a Cruise robotaxi after being hit by a human-driven vehicle. Video captured by Cruise a...",
+      "tags": ["Medical Shops", "Writing"]
+    },
+    {
+      "id": 82,
+      "title": "Meta debuts generative AI features for advertisers",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
+      "category": "Real Estate",
+      "author": "Sarah Perez",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "5 minutes",
+      "content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
+      "tags": ["Blogging", "Writing"]
+    },
+    {
+      "id": 83,
+      "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
+      "category": "Medical Shops",
+      "author": "Sophie Alcorn",
+      "authorPic": "author1.jpg",
+      "published_date": "October 4, 2023",
+      "reading_time": "4 minutes",
+      "content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
+      "tags": ["Textile & Redimade", "Blogging"]
+    }
+  ],
+  "team": [
+    {
+      "image": "/images/red.jpg",
+      "name": "Syed Nizamudeen",
+      "role": "CEO"
+    },
+    {
+      "image": "/images/green.jpeg",
+      "name": "Jabarudeen",
+      "role": "Vice President"
+    },
+    {
+      "image": "/images/black.jpg",
+      "name": "Mohamed Hanifa",
+      "role": "Director"
+    },
+    {
+      "image": "/images/white.jpeg",
+      "name": "Jasam Nabees",
+      "role": "Senior Manager"
+    },
+    {
+      "image": "/images/blue.jpeg",
+      "name": "Atheeq Urrahman",
+      "role": "Manager"
+    }
+  ],
+  "supportList": [
+    { "support": "Bug Fixes and Issue Resolution" },
+    { "support": "Feature Requests Evaluation" },
+    { "support": "Technical Assistance" },
+    { "support": "Documentation Updates" },
+    { "support": "Training and Onboarding" },
+    { "support": "Performance Optimization" },
+    { "support": "Quality Assurance" },
+    { "support": "Security Patches" },
+    { "support": "Release Management" },
+    { "support": "Feedback Collection" },
+    { "support": "Integration Support" },
+    { "support": "Performance Monitoring" },
+    { "support": "Compliance and Standards" },
+    { "support": "Emergency Support" },
+    { "support": "User Experience Enhancement" }
+  ],
+  "heroFeats": [
+    {
+      "image": "/hero/quality.png",
+      "title": "Expertise",
+      "description": "With years of experience in the industry, we bring unparalleled expertise to every project."
+    },
+    {
+      "image": "/hero/idea.png",
+      "title": "Innovation",
+      "description": "We stay ahead of the curve with our commitment to using the latest technologies and best practices."
+    },
+    {
+      "image": "/hero/customization.png",
+      "title": "Customization",
+      "description": "Every solution we deliver is tailor-made to fit your business goals and requirements perfectly."
+    },
+    {
+      "image": "/hero/maintenance.png",
+      "title": "Support",
+      "description": "Our dedication doesn’t end at delivery. We provide ongoing support and maintenance to ensure your software runs smoothly."
+    }
+  ],
+  "features": [
+    {
+      "image": "/feature/mobileapp.png",
+      "title": "Mobile Applications",
+      "description": "Harness the power of mobile technology with our custom app development services. From Android to iOS, we create intuitive and feature-rich mobile solutions that resonate with your audience.",
+      "link": "/"
+    },
+    {
+      "image": "/feature/windowapp.png",
+      "title": "Windows Applications",
+      "description": "Streamline your operations with our Windows software development expertise. We build scalable and secure desktop applications that enhance efficiency and productivity.",
+      "link": "/"
+    },
+    {
+      "image": "/feature/webdev.png",
+      "title": "Website Development",
+      "description": "Establish your online presence with our professional website development services. Our team designs and develops responsive websites that captivate users and drive business growth.",
+      "link": "/"
+    }
+  ],
+  "companyAddress": [
+    {
+      "HeadQuarters": {
+        "street": "East St., Panaikkulam",
+        "city": "Ramaathapuram",
+        "State": "Tamil-Nadu",
+        "country": "India"
+      },
+      "Phone": "7894561230",
+      "Email": "cyber.storm@infotech.com"
+    }
+  ],
+  "hiring": [
+    {
+      "role": "Front-end Developer",
+      "environment": "On-site",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    },
+    {
+      "role": "Back-end Developer",
+      "environment": "On-site",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    },
+    {
+      "role": "Full-stack Developer",
+      "environment": "Remote",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    },
+    {
+      "role": "Database Developer/Administrator",
+      "environment": "Hybrid",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    },
+    {
+      "role": "DevOps Engineer",
+      "environment": "Remote",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    },
+    {
+      "role": "Quality Assurance (QA) Engineer",
+      "environment": "On-site",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    },
+    {
+      "role": "Technical Lead",
+      "environment": "On-site",
+      "place": "Ramanthapuram",
+      "department": "IT",
+      "schedule": "Full time"
+    }
+  ],
+  "perks": [
+    {
+      "image": "/perks/hour.png",
+      "title": "Flexible Work Hours"
+    },
+    {
+      "image": "/perks/salary.png",
+      "title": "Salary"
+    },
+    {
+      "image": "/perks/home.png",
+      "title": "Work From Home Stipend"
+    },
+    {
+      "image": "/perks/time.png",
+      "title": "Paid Time Off"
+    },
+    {
+      "image": "/perks/brain.png",
+      "title": "Mental Health Days"
+    },
+    {
+      "image": "/perks/culture.png",
+      "title": "Company Culture"
+    },
+    {
+      "image": "/perks/growth.png",
+      "title": "Growth-Stage Startup"
+    },
+    {
+      "image": "/perks/education.png",
+      "title": "Continuing Education"
+    },
+    {
+      "image": "/perks/insurance.png",
+      "title": "Health Insurance"
+    },
+    {
+      "image": "/perks/career.png",
+      "title": "Career Development"
+    },
+    {
+      "image": "/perks/resources.png",
+      "title": "Technology and Resources"
+    },
+    {
+      "image": "/perks/parental.png",
+      "title": "Paid Parental Leave"
+    }
+  ],
+  "faq":[
+    {
+        "question": "What services does CSIT (Cyber Storm Info Tech) offer?",
+        "answer": "CSIT specializes in providing a wide range of software solutions tailored to various industries. Our services include custom software development, mobile application development, website development, CRM solutions, ERP solutions, and more. We aim to empower businesses with innovative technology solutions that enhance efficiency and drive growth."
+    },
+    {
+        "question": "How does CSIT ensure the security of its software solutions?",
+        "answer": "At CSIT, security is a top priority. We implement industry best practices and use advanced security measures to protect our software solutions and our clients\u2019 data. This includes encryption, regular security audits, compliance with data protection regulations, and proactive monitoring to detect and mitigate potential threats."
+    },
+    {
+        "question": "Can CSIT customize its software solutions to fit specific business needs?",
+        "answer": "Yes, CSIT understands that every business is unique. We offer customizable software solutions that can be tailored to meet the specific requirements and objectives of our clients. Whether you need modifications to existing software or a completely bespoke solution, our team of experts is dedicated to delivering exactly what your business needs."
+    },
+    {
+        "question": "What industries does CSIT serve?",
+        "answer": "CSIT serves a diverse range of industries including but not limited to healthcare, education, retail, finance, hospitality, and manufacturing. Our versatile expertise allows us to address the unique challenges and opportunities within each industry, providing tailored software solutions that drive business success."
+    },
+    {
+        "question": "How can I get started with CSIT?",
+        "answer": "Getting started with CSIT is easy! Simply contact us through our website or give us a call to discuss your project requirements. Our team will work closely with you to understand your goals, propose tailored solutions, and guide you through every step of the process from planning and development to deployment and support."
+    },
+    {
+        "question": "What is CRM?",
+        "answer": "CRM (Customer Relationship Management) software helps businesses manage interactions with current and potential customers. It streamlines processes, improves customer satisfaction, and drives sales growth by organizing and automating customer data and interactions."
+    },
+    {
+        "question": "What does the Restaurant software offer?",
+        "answer": "Our Restaurant software is designed to streamline operations in restaurants, cafes, and eateries. It includes features like table management, online ordering, inventory management, billing, and customer relationship management to enhance efficiency and customer experience."
+    },
+    {
+        "question": "What features does the Supermarket software include?",
+        "answer": "Our Supermarket software provides comprehensive solutions for managing supermarket operations. It features inventory management, sales tracking, POS (Point of Sale), supplier management, and customer loyalty programs to optimize retail operations."
+    },
+    {
+        "question": "How does the Textile and Apparel software benefit businesses?",
+        "answer": "The Textile and Apparel software caters specifically to textile and apparel businesses, offering features such as order management, production tracking, inventory control, and CRM functionalities to streamline processes and enhance productivity."
+    },
+    {
+        "question": "What are the key features of Medical Shops software?",
+        "answer": "Our Medical Shops software helps manage pharmaceutical and medical store operations effectively. It includes features like inventory management, prescription tracking, POS, billing, and compliance management to ensure smooth operations."
+    },
+    {
+        "question": "How can the Automobile software assist auto businesses?",
+        "answer": "The Automobile software is tailored for automotive businesses, providing solutions for inventory management, sales tracking, service scheduling, CRM, and parts inventory to streamline operations and improve customer service."
+    },
+    {
+        "question": "What features are included in the Jewelry Shops software?",
+        "answer": "Our Jewelry Shops software offers specialized features such as inventory management for precious metals and stones, sales tracking, CRM, appraisal management, and POS to enhance operational efficiency and customer service."
+    },
+    {
+        "question": "How does Hospital Management software benefit healthcare institutions?",
+        "answer": "Hospital Management software integrates various functions within a hospital or healthcare facility, including patient management, appointment scheduling, billing, electronic medical records (EMR), and inventory management to improve overall efficiency and patient care."
+    },
+    {
+        "question": "What functionalities does the Education Management software provide?",
+        "answer": "The Education Management software is designed for educational institutions to manage student admissions, attendance, curriculum planning, grading, parent communication, and administrative tasks to streamline operations and enhance academic management."
+    },
+    {
+        "question": "What features does the Appliances Showroom software offer?",
+        "answer": "Our Appliances Showroom software caters to businesses selling home appliances. It includes features like inventory management, sales tracking, POS, service management, and CRM to optimize retail operations and customer interactions."
+    },
+    {
+        "question": "How does the Real Estate software benefit real estate agencies?",
+        "answer": "The Real Estate software provides tools for property management, listings management, lead management, client communication, transaction tracking, and marketing automation to streamline real estate operations and improve sales efficiency."
+    },
+    {
+        "question": "What functionalities are included in the Forex Management software?",
+        "answer": "Our Forex Management software provides comprehensive solutions for currency exchange businesses. It includes features such as real-time exchange rate tracking, transaction management, customer account management, compliance with regulatory requirements, and reporting tools for operational analysis and financial reporting."
+    }
+]
+
+}
