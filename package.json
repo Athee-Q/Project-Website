@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "concurrently \"next dev\" \"npx json-server data/db.json -p 4000\"",
-    "build": "next build",
-    "start": "next start" ,
+    "build": "concurrently \"next build\" \"npx json-server data/db.json -p 4000\"",
+    "start": "concurrently \"next start\" \"npx json-server data/db.json -p 4000\"" ,
     "lint": "next lint"
   },
   "dependencies": {
