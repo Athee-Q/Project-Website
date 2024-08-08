@@ -1,30 +1,19 @@
 'use client';
-import React, { useEffect, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import Logo from '../Logo/Logo';
 import { Bars3BottomRightIcon, XMarkIcon } from '@heroicons/react/16/solid';
 import Button from '../Button/Button';
 import Navlinks from './Navlinks';
 import MobileNav from './MobileNav';
+import { NavContext } from '@/provider/navProvider';
 
-interface NavDataItem {
-    link: string
-    title: string
-    image: string
-    description: string
-}
-
-interface NavData {
-    title: string
-    dropDown: NavDataItem[]
-}
 
 const Header = () => {
     const [isScrolled, setIsScrolled] = useState(false);
     const [isOpen, setIsOpen] = useState(false);
-    const [navData, setNavData] = useState<NavData[]>([]);
+    const {navData} = useContext(NavContext)
 
     useEffect(() => {
-        fetchData()
         const scrollListener = () => {
             setIsScrolled(window.scrollY > 50);
         };
@@ -33,24 +22,6 @@ const Header = () => {
         return () => window.removeEventListener('scroll', scrollListener);
     }, []);
 
-
-
-
-    const fetchData = async () => {
-        try {
-            const response = await fetch('http://localhost:4000/navData');
-            if (!response.ok) {
-                throw new Error('Failed to fetch data');
-            }
-            const data = await response.json();
-            
-
-            setNavData(data);
-        } catch (error) {
-            console.error('Error fetching data:', error);
-
-        }
-    }
 
     const handleIsOpen = () => setIsOpen(!isOpen);
 

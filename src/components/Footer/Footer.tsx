@@ -1,52 +1,20 @@
 'use client'
 import Link from 'next/link'
-import React, { useEffect, useState } from 'react'
+import React, { useContext } from 'react'
 import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
 import { FaXTwitter } from 'react-icons/fa6';
 import { policies } from '@/constants/policies';
 import Logo from '../Logo/Logo';
-
-interface NavDataItem {
-  link: string
-  title: string
-  image: string
-  description: string
-}
-
-interface NavData {
-  title: string
-  dropDown: NavDataItem[]
-}
+import { NavContext } from '@/provider/navProvider';
 
 const Footer = () => {
+  const {navData} = useContext(NavContext)
 
-  const [navData, setNavData] = useState<NavData[]>([]);
-
-  useEffect(() => {
-    fetchData()
-}, [])
-
-
-const fetchData = async () => {
-    try {
-        const response = await fetch('http://localhost:4000/navData');
-        if (!response.ok) {
-            throw new Error('Failed to fetch data');
-        }
-        const data = await response.json();
-        
-        
-        setNavData(data); 
-    } catch (error) {
-        console.error('Error fetching data:', error);
-       
-    }
-}
   return (
     <div className='px- pt-8 shadow-inner bg-purple-50'>
       <div className="w-11/12 pb-8 mx-auto grid grid-cols-1  md:grid-cols-3  gap-4  md:items-start">
         <div className='order-2 md:oder-1 md:col-span-2  grid grid-cols-1 md:grid-cols-2 md:grid-rows-2 gap-4'>
-          {navData.map(({ title, dropDown }, index) => (
+          {navData?.map(({ title, dropDown }, index) => (
             <div key={index} className={`md:col-span-1 ${index === 0 ? 'md:row-span-2' : 'row-span-1'}`}>
               <div className="text-nowrap px-4  text-[17px] text-purple-900 font-bold mb-2 tracking-widest">{title}</div>
               {dropDown.map(({ link, title }, index) => (

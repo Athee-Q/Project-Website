@@ -1,33 +1,17 @@
 'use client'
 
-import { useEffect, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import Image from 'next/image';
 import Button from '../Button/Button';
+import { NavContext } from '@/provider/navProvider';
 
-interface NavItem {
-  title: string;
-  image: string;
-  description: string;
-}
-interface NavDataItem {
-  link: string
-  title: string
-  image: string
-  description: string
-}
-
-interface NavData {
-  title: string
-  dropDown: NavDataItem[]
-}
 
 const Products: React.FC = () => {
   const [selectedTitle, setSelectedTitle] = useState<string | undefined>();
-  const [navData, setNavData] = useState<NavData[]>([]);
+  const {navData} = useContext(NavContext)
 
   useEffect(() => {
 
-    fetchData()
     const handleScroll = () => {
       const sections = document.querySelectorAll('.menu-section');
       let current = '';
@@ -39,7 +23,7 @@ const Products: React.FC = () => {
         }
       });
 
-      const foundItem = navData[0].dropDown.find(item => item.title.toLowerCase().replace(/\s+/g, '-') === current);
+      const foundItem =navData && navData[0].dropDown.find(item => item.title.toLowerCase().replace(/\s+/g, '-') === current);
       if (foundItem) {
         setSelectedTitle(foundItem.title);
       }
@@ -51,22 +35,6 @@ const Products: React.FC = () => {
       window.removeEventListener('scroll', handleScroll);
     };
   }, [navData]);
-
-  const fetchData = async () => {
-    try {
-      const response = await fetch('http://localhost:4000/navData');
-      if (!response.ok) {
-        throw new Error('Failed to fetch data');
-      }
-      const data = await response.json();
-      
-
-      setNavData(data);
-    } catch (error) {
-      console.error('Error fetching data:', error);
-
-    }
-  }
 
 
   return (
@@ -82,7 +50,7 @@ const Products: React.FC = () => {
         {/* Side menu */}
         <div className="sticky z-50  flex-nowrap text-nowrap overflow-x-auto scrollbar-hide w-full lg:h-[100vh] top-[14vh] bg-gray-50 col-span-3 p-6 flex lg:flex-col gap-4">
           <div className={`font-semibold cursor-pointer text-blue-gray-500`}>Products</div>
-          {navData[0].dropDown.map(({ title }, index) => (
+          {navData && navData[0].dropDown.map(({ title }, index) => (
             <div
               key={index}
               onClick={() => setSelectedTitle(title)}
@@ -94,7 +62,7 @@ const Products: React.FC = () => {
         </div>
         {/* Menu content */}
         <div className="col-span-9 bg-gray-50 h-hull w-full overflow-y-auto">
-          {navData[0].dropDown.map(({ title, image, description }: NavItem, index: number) => (
+          {navData && navData[0].dropDown.map(({ title, image, description }, index: number) => (
             <div id={title.toLowerCase().replace(/\s+/g, '-')} key={index} className="relative mt-12 mb-56 w-full h-[90vh] menu-section">
               <div className=" p-3 w-11/12 mx-auto h-full bg-blue-gray-900 rounded-2xl shadow-2xl shadow-gray-50 border-4 border-blue-gray-700 hover:skew-x-1 hover:border-l-[10px] duration-200 ease-linear transition-all ">
                 <div className=" relative w-full h-full shadow-inner">

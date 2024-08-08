@@ -4,24 +4,14 @@ import Link from 'next/link'
 import React, { useState } from 'react'
 import { IoIosArrowDown } from 'react-icons/io'
 import Button from '../Button/Button'
+import { NavData } from '@/provider/navProvider'
 
 interface Props {
     open: boolean
     close(): void
-    navData:NavData[]
+    navData: NavData[] | null
 }
 
-interface NavDataItem {
-    link: string
-    title: string
-    image: string
-    description: string
-}
-
-interface NavData {
-    title: string
-    dropDown: NavDataItem[]
-}
 
 const MobileNav = ({ open, close, navData }: Props) => {
 
@@ -35,7 +25,7 @@ const MobileNav = ({ open, close, navData }: Props) => {
         <>
             <div onClick={close} className={` top-[13vh] left-0 z-20 ${open ? 'fixed' : 'hidden'} h-full w-[100vw]  bg-black/50 `}></div>
             <div className={` z-50 left-0 top-[13vh] ${open ? 'fixed' : 'hidden'} h-full w-[85vw] sm:w-[60vw] bg-white py-16 px-8 overflow-y-auto scrollbar-hide space-y-4`}>
-                {navData.map(({ title, dropDown }, index) => (
+                {navData?.map(({ title, dropDown }, index) => (
                     <div key={index} className=" group pb-4">
                         <div onClick={() => handleDropDown(index)} className='py-4 cursor-pointer flex items-center'>
                             <span className='text-gray-600 group-hover:text-red-500 transition-all duration-200'>{title}</span>

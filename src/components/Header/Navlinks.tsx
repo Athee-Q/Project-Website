@@ -3,20 +3,11 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { IoIosArrowDown } from 'react-icons/io'
 import Image from 'next/image'
+import { NavData } from '@/provider/navProvider'
 
-interface NavDataItem {
-    link: string
-    title: string
-    image: string
-    description: string
-}
 
-interface NavData {
-    title: string
-    dropDown: NavDataItem[]
-}
 
-const Navlinks = ( {navData}:{navData :NavData[]} ) => {
+const Navlinks = ( {navData}:{navData :NavData[] | null} ) => {
     const [activeDropdownIndex, setActiveDropdownIndex] = useState(-1);
 
     const handleDropDown = (index: number) => {
@@ -25,7 +16,7 @@ const Navlinks = ( {navData}:{navData :NavData[]} ) => {
 
     return (
         <>
-            {navData.map(({ title, dropDown }, index) => (
+            {navData?.map(({ title, dropDown }, index) => (
                 <div key={index} className="group">
                     <div onClick={() => handleDropDown(index)} className='py-4 cursor-pointer flex items-center'>
                         <span className='text-neutral-600 group-hover:text-red-500 transition-all duration-200'>{title}</span>
